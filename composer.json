@@ -1,7 +1,6 @@
 {
     "name": "explorer-cash/api-php",
     "description": "PHP API binding for explorer.cash Blockchain API service",
-    "type": "library",
     "authors": [
         {
             "name": "explorer.cash",
@@ -10,9 +9,6 @@
     ],
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "require": {
-        "php": ">=7.0.0"
-    },
     "autoload": {
         "psr-0": {
             "ExplorerCash": "src/"
