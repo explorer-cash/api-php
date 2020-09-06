@@ -12,7 +12,8 @@ PHP version >= 7.x
 
 ## How to install
 
-```php
+```
+$ composer require explorer-cash/api-php
 ```
 
 ## How to use
