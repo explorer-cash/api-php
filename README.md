@@ -6,7 +6,7 @@ The library provide an access to explorer.cash Blockchain API for PHP applicatio
 You can easily add payment request and receive a notification when a crypto payment is confirmed on the blockchain.
 explorer.cash Blockchain API supports multiple cryptocurrencies like Bitcoin (BTC), Bitcoin Cash (BCH), Tether (USDT), USD Coin (USDC), Ethereum (ETH), Litecoin (LTC) ...
 
-:page_facing_up: [See explorer.cash Blockchain API documentation](https://www.explorer.cash/en/docs.html)
+:green_book: [See explorer.cash Blockchain API documentation](https://www.explorer.cash/en/docs.html)
 
 ## Requirements
 
