@@ -80,7 +80,7 @@ Api::subscribeRates([
 
 ## Support or Contact
 
-Having trouble with this library or explorer.cash API ? Contact our support support@explorer.cash and we’ll help you sort it out.
+Having trouble with this library or explorer.cash API ? [Contact our support](https://www.explorer.cash/en/contact-us) and we’ll help you sort it out.
 
 
 ## License
